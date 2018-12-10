@@ -6,7 +6,7 @@ def myfunc(a, b):
     if a > b:
         return a - b
     else:
-        return a + b
+       return a + b
 
 print myfunc(10, 8)
 
