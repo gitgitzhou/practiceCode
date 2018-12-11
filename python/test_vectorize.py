@@ -9,6 +9,7 @@ def myfunc(a, b):
        return a + b
 
 print myfunc(10, 8)
+print myfunc(10, 8)
 
 
 # vfunc = np.vectorize(myfunc)
