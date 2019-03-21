@@ -31,17 +31,18 @@ double Line::getLength( void ) {
 }
 
 // Main function for the program
+double a;
 int main() {
 
    Line line(10.0);
-   
+   a = 10; 
    // get initially set length.
    cout << "Initial length of line : " << line.getLength() << endl;
 
    // set line length
    line.setLength(6.0); 
    cout << "Length of line : " << line.getLength() << endl;
- 
+   cout << a << endl; 
    return 0;
 }
 
