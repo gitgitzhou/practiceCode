@@ -31,7 +31,6 @@ emp3.displayCount()
 emp3.age = 23
 print "The age of Employee 3 is: %d" % emp3.age
 
-print hasattr(emp1, 'age')
 print hasattr(emp3, 'age')
 
 # print getattr(emp1, 'age')
