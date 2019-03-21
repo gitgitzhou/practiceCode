@@ -9,10 +9,11 @@ def myfunc(a, b):
        return a + b
 
 print myfunc(10, 8)
-print myfunc(10, 8)
+print myfunc(1, 8)
 
 
 # vfunc = np.vectorize(myfunc)
 # print vfunc([1, 2, 3, 4], 2)
 
 print myfunc(3, [2, 1])
+print myfunc([2, 1], [2, 5])

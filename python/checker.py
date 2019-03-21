@@ -10,7 +10,6 @@
 
 import matplotlib.pyplot as plt
 from skimage import data
-import pdb; pdb.set_trace()  # XXX BREAKPOINT
 
 camera = data.camera()
 camera_multiply = 3 * camera
