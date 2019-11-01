@@ -1,0 +1,14 @@
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/hostpolicy.dll
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/hostfxr.dll
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/Hello.exe
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/Hello.deps.json
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/Hello.runtimeconfig.json
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/Hello.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/Hello.dll
+/home/jianfenz/practiceCode/cs/Hello/bin/Release/netcoreapp2.2/win10-x64/Hello.pdb
+/home/jianfenz/practiceCode/cs/Hello/obj/Release/netcoreapp2.2/win10-x64/Hello.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/Hello/obj/Release/netcoreapp2.2/win10-x64/Hello.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/Hello/obj/Release/netcoreapp2.2/win10-x64/Hello.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/Hello/obj/Release/netcoreapp2.2/win10-x64/Hello.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/Hello/obj/Release/netcoreapp2.2/win10-x64/Hello.dll
+/home/jianfenz/practiceCode/cs/Hello/obj/Release/netcoreapp2.2/win10-x64/Hello.pdb

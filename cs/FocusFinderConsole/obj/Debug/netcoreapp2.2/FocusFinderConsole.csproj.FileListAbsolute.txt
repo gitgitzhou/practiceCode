@@ -1,0 +1,14 @@
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Debug/netcoreapp2.2/FocusFinderConsole.deps.json
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Debug/netcoreapp2.2/FocusFinderConsole.runtimeconfig.json
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Debug/netcoreapp2.2/FocusFinderConsole.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Debug/netcoreapp2.2/FocusFinderConsole.dll
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Debug/netcoreapp2.2/FocusFinderConsole.pdb
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Debug/netcoreapp2.2/FocusFinderConsole.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Debug/netcoreapp2.2/FocusFinderConsole.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Debug/netcoreapp2.2/FocusFinderConsole.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Debug/netcoreapp2.2/FocusFinderConsole.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Debug/netcoreapp2.2/FocusFinderConsole.dll
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Debug/netcoreapp2.2/FocusFinderConsole.pdb
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Debug/netcoreapp2.2/FocusFinderLibrary.dll
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Debug/netcoreapp2.2/FocusFinderLibrary.pdb
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Debug/netcoreapp2.2/FocusFinderConsole.csproj.CopyComplete

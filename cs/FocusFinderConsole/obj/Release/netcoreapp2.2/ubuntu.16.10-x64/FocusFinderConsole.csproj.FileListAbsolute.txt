@@ -1,0 +1,17 @@
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/libhostpolicy.so
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/libhostfxr.so
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.deps.json
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.runtimeconfig.json
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.dll
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.pdb
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderLibrary.dll
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/bin/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderLibrary.pdb
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.csproj.CopyComplete
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.dll
+/home/jianfenz/practiceCode/cs/FocusFinderConsole/obj/Release/netcoreapp2.2/ubuntu.16.10-x64/FocusFinderConsole.pdb

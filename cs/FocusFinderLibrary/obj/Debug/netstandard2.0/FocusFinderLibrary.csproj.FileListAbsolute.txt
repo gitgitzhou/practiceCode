@@ -1,0 +1,9 @@
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/bin/Debug/netstandard2.0/FocusFinderLibrary.deps.json
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/bin/Debug/netstandard2.0/FocusFinderLibrary.dll
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/bin/Debug/netstandard2.0/FocusFinderLibrary.pdb
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/obj/Debug/netstandard2.0/FocusFinderLibrary.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/obj/Debug/netstandard2.0/FocusFinderLibrary.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/obj/Debug/netstandard2.0/FocusFinderLibrary.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/obj/Debug/netstandard2.0/FocusFinderLibrary.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/obj/Debug/netstandard2.0/FocusFinderLibrary.dll
+/home/jianfenz/practiceCode/cs/FocusFinderLibrary/obj/Debug/netstandard2.0/FocusFinderLibrary.pdb
