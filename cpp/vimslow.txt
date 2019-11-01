@@ -1,0 +1,182 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.005  000.005: --- VIM STARTING ---
+000.126  000.121: Allocated generic buffers
+000.448  000.322: locale set
+000.463  000.015: GUI prepared
+000.469  000.006: clipboard setup
+000.474  000.005: window checked
+000.925  000.451: inits 1
+000.953  000.028: parsing arguments
+000.954  000.001: expanding arguments
+000.974  000.020: shell init
+1001.295  1000.321: xsmp init
+1001.754  000.459: Termcap init
+1001.826  000.072: inits 2
+1002.105  000.279: init highlight
+1002.283  000.115  000.115: sourcing $VIM/vimrc
+1012.170  009.593  009.593: sourcing /usr/share/vim/vim81/filetype.vim
+1012.307  000.066  000.066: sourcing /usr/share/vim/vim81/ftplugin.vim
+1012.381  000.016  000.016: sourcing /usr/share/vim/vim81/filetype.vim
+1012.481  000.049  000.049: sourcing /usr/share/vim/vim81/indent.vim
+1012.670  000.081  000.081: sourcing /usr/share/vim/vim81/delmenu.vim
+1013.339  000.037  000.037: sourcing /usr/share/vim/vim81/lang/menu_en_gb.latin1.vim
+1013.413  000.025  000.025: sourcing /usr/share/vim/vim81/lang/menu_en_gb.latin1.vim
+1013.418  000.062  000.037: sourcing /usr/share/vim/vim81/lang/menu_en_gb.utf-8.vim
+1013.978  000.063  000.063: sourcing /usr/share/vim/vim81/autoload/paste.vim
+1017.329  004.637  004.475: sourcing /usr/share/vim/vim81/menu.vim
+1018.822  001.164  001.164: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1018.925  001.344  000.180: sourcing /usr/share/vim/vim81/syntax/synload.vim
+1018.952  001.454  000.110: sourcing /usr/share/vim/vim81/syntax/syntax.vim
+1019.317  000.188  000.188: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1019.671  000.179  000.179: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1019.949  000.181  000.181: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1020.179  001.192  000.644: sourcing /usr/share/vim/vim81/colors/desert.vim
+1020.563  000.183  000.183: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1020.838  000.181  000.181: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1021.062  000.852  000.488: sourcing /usr/share/vim/vim81/colors/desert.vim
+1021.509  019.004  001.064: sourcing /home/jianfenz/.vim_runtime/vimrcs/basic.vim
+1021.646  000.116  000.116: sourcing /home/jianfenz/.vim_runtime/vimrcs/filetypes.vim
+1022.065  000.339  000.339: sourcing /home/jianfenz/.vim_runtime/autoload/pathogen.vim
+1023.417  000.470  000.470: sourcing /usr/share/vim/vim81/ftoff.vim
+1029.290  005.619  005.619: sourcing /usr/share/vim/vim81/filetype.vim
+1032.462  000.320  000.320: sourcing /usr/share/vim/vim81/ftoff.vim
+1036.768  000.030  000.030: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nginx.vim/ftdetect/nginx.vim
+1036.816  000.009  000.009: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/rust.vim/ftdetect/rust.vim
+1036.912  000.025  000.025: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-bundle-mako/ftdetect/mako.vim
+1036.975  000.031  000.031: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-coffee-script/ftdetect/coffee.vim
+1036.995  000.013  000.013: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-coffee-script/ftdetect/vim-literate-coffeescript.vim
+1037.055  000.007  000.007: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-fugitive/ftdetect/fugitive.vim
+1037.131  000.046  000.046: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-go/ftdetect/gofiletype.vim
+1037.172  000.007  000.007: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-less/ftdetect/less.vim
+1037.217  000.023  000.023: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-markdown/ftdetect/markdown.vim
+1037.260  000.012  000.012: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-pug/ftdetect/pug.vim
+1037.457  004.604  004.401: sourcing /usr/share/vim/vim81/filetype.vim
+1039.416  000.300  000.300: sourcing /usr/share/vim/vim81/ftoff.vim
+1043.675  000.028  000.028: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nginx.vim/ftdetect/nginx.vim
+1043.712  000.007  000.007: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/rust.vim/ftdetect/rust.vim
+1043.817  000.023  000.023: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-bundle-mako/ftdetect/mako.vim
+1043.872  000.030  000.030: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-coffee-script/ftdetect/coffee.vim
+1043.891  000.012  000.012: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-coffee-script/ftdetect/vim-literate-coffeescript.vim
+1043.944  000.006  000.006: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-fugitive/ftdetect/fugitive.vim
+1044.014  000.043  000.043: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-go/ftdetect/gofiletype.vim
+1044.047  000.006  000.006: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-less/ftdetect/less.vim
+1044.091  000.021  000.021: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-markdown/ftdetect/markdown.vim
+1044.130  000.011  000.011: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-pug/ftdetect/pug.vim
+1044.308  004.508  004.321: sourcing /usr/share/vim/vim81/filetype.vim
+1060.399  038.736  022.576: sourcing /home/jianfenz/.vim_runtime/vimrcs/plugins_config.vim
+1061.117  000.126  000.126: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1061.565  000.156  000.156: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1061.752  001.086  000.804: sourcing /usr/share/vim/vim81/colors/desert.vim
+1062.395  000.126  000.126: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1062.809  000.116  000.116: sourcing /usr/share/vim/vim81/syntax/syncolor.vim
+1063.311  001.359  001.117: sourcing /home/jianfenz/.vim_runtime/sources_forked/peaksea/colors/peaksea.vim
+1063.483  003.069  000.624: sourcing /home/jianfenz/.vim_runtime/vimrcs/extended.vim
+1063.566  000.070  000.070: sourcing /home/jianfenz/.vim_runtime/my_configs.vim
+1063.570  061.105  000.110: sourcing $HOME/.vimrc
+1063.572  000.247: sourcing vimrc file(s)
+1063.940  000.300  000.300: sourcing /home/jianfenz/.vim_runtime/my_plugins/YouCompleteMe/plugin/youcompleteme.vim
+1064.069  000.069  000.069: sourcing /home/jianfenz/.vim_runtime/my_plugins/python-mode/autoload/pymode.vim
+1064.297  000.007  000.007: sourcing /usr/share/vim/vim81/filetype.vim
+1064.541  000.006  000.006: sourcing /usr/share/vim/vim81/ftplugin.vim
+1065.122  000.007  000.007: sourcing /usr/share/vim/vim81/filetype.vim
+1065.352  000.006  000.006: sourcing /usr/share/vim/vim81/ftplugin.vim
+1065.435  001.459  001.364: sourcing /home/jianfenz/.vim_runtime/my_plugins/python-mode/plugin/pymode.vim
+1065.618  000.148  000.148: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/ack.vim/plugin/ack.vim
+1066.126  000.067  000.067: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/ale/autoload/ale/events.vim
+1066.277  000.620  000.553: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/ale/plugin/ale.vim
+1066.622  000.299  000.299: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/auto-pairs/plugin/auto-pairs.vim
+1067.336  000.666  000.666: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/bufexplorer/plugin/bufexplorer.vim
+1067.437  000.055  000.055: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/comfortable-motion.vim/plugin/comfortable_motion.vim
+1067.781  000.165  000.165: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+1067.916  000.444  000.279: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/ctrlp.vim/plugin/ctrlp.vim
+1067.978  000.016  000.016: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/goyo.vim/plugin/goyo.vim
+1068.076  000.041  000.041: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/lightline-ale/plugin/lightline/ale.vim
+1068.173  000.059  000.059: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/lightline.vim/plugin/lightline.vim
+1069.437  001.224  001.224: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/mru.vim/plugin/mru.vim
+1069.931  000.115  000.115: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/autoload/nerdtree.vim
+1070.703  000.310  000.310: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/path.vim
+1070.868  000.075  000.075: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/menu_controller.vim
+1070.991  000.047  000.047: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/menu_item.vim
+1071.135  000.071  000.071: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/key_map.vim
+1071.353  000.139  000.139: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/bookmark.vim
+1071.565  000.133  000.133: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/tree_file_node.vim
+1071.929  000.271  000.271: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/tree_dir_node.vim
+1072.137  000.133  000.133: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/opener.vim
+1072.362  000.151  000.151: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/creator.vim
+1072.464  000.028  000.028: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/flag_set.vim
+1072.621  000.084  000.084: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/nerdtree.vim
+1072.897  000.206  000.206: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/ui.vim
+1072.981  000.012  000.012: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/event.vim
+1073.077  000.023  000.023: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/lib/nerdtree/notifier.vim
+1073.505  000.346  000.346: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/autoload/nerdtree/ui_glue.vim
+1075.070  000.063  000.063: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/nerdtree_plugin/exec_menuitem.vim
+1075.445  000.366  000.366: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/nerdtree_plugin/fs_menu.vim
+1075.845  006.358  003.785: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/nerdtree/plugin/NERD_tree.vim
+1075.959  000.059  000.059: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/open_file_under_cursor.vim/plugin/open_file_under_cursor.vim
+1076.021  000.029  000.029: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/rust.vim/plugin/rust.vim
+1076.234  000.173  000.173: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/tabular/plugin/Tabular.vim
+1076.349  000.079  000.079: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/tlib/plugin/02tlib.vim
+1076.896  000.510  000.510: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-abolish/plugin/abolish.vim
+1077.114  000.138  000.138: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-commentary/plugin/commentary.vim
+1077.474  000.165  000.165: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-expand-region/autoload/expand_region.vim
+1077.561  000.410  000.245: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-expand-region/plugin/expand_region.vim
+1077.869  000.252  000.252: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-fugitive/plugin/fugitive.vim
+1078.300  000.112  000.112: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-gitgutter/autoload/gitgutter/utility.vim
+1078.683  000.074  000.074: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-gitgutter/autoload/gitgutter/highlight.vim
+1079.147  001.234  001.048: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-gitgutter/plugin/gitgutter.vim
+1080.288  000.893  000.893: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-go/autoload/go/config.vim
+1080.604  001.407  000.514: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-go/plugin/go.vim
+1080.827  000.181  000.181: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-indent-object/plugin/indent-object.vim
+1081.103  000.220  000.220: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-multiple-cursors/plugin/multiple_cursors.vim
+1081.451  000.142  000.142: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-addon-mw-utils/autoload/funcref.vim
+1081.715  000.551  000.409: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-snipmate/plugin/snipMate.vim
+1081.787  000.027  000.027: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-snippets/plugin/vimsnippets.vim
+1082.394  000.571  000.571: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-surround/plugin/surround.vim
+1082.932  000.279  000.279: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-yankstack/autoload/yankstack.vim
+1083.301  000.866  000.587: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-yankstack/plugin/yankstack.vim
+1083.391  000.052  000.052: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-zenroom2/plugin/zenroom2.vim
+1083.456  000.022  000.022: sourcing /home/jianfenz/.vim_runtime/sources_forked/set_tabline/plugin/set_tabline.vim
+1083.581  000.085  000.085: sourcing /home/jianfenz/.vim_runtime/sources_forked/vim-peepopen/plugin/peepopen.vim
+1083.774  000.046  000.046: sourcing /usr/share/vim/vim81/plugin/getscriptPlugin.vim
+1083.964  000.183  000.183: sourcing /usr/share/vim/vim81/plugin/gzip.vim
+1084.141  000.169  000.169: sourcing /usr/share/vim/vim81/plugin/logiPat.vim
+1084.169  000.020  000.020: sourcing /usr/share/vim/vim81/plugin/manpager.vim
+1084.305  000.128  000.128: sourcing /usr/share/vim/vim81/plugin/matchparen.vim
+1084.711  000.398  000.398: sourcing /usr/share/vim/vim81/plugin/netrwPlugin.vim
+1084.763  000.029  000.029: sourcing /usr/share/vim/vim81/plugin/rrhelper.vim
+1084.796  000.020  000.020: sourcing /usr/share/vim/vim81/plugin/spellfile.vim
+1084.925  000.118  000.118: sourcing /usr/share/vim/vim81/plugin/tarPlugin.vim
+1085.011  000.068  000.068: sourcing /usr/share/vim/vim81/plugin/tohtml.vim
+1085.155  000.132  000.132: sourcing /usr/share/vim/vim81/plugin/vimballPlugin.vim
+1085.288  000.115  000.115: sourcing /usr/share/vim/vim81/plugin/zipPlugin.vim
+1085.302  001.749: loading plugins
+1085.337  000.035: loading packages
+1085.598  000.183  000.183: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-snipmate/after/plugin/snipMate.vim
+1086.055  000.182  000.182: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/tabular/autoload/tabular.vim
+1087.269  001.600  001.418: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/tabular/after/plugin/TabularMaps.vim
+1087.294  000.174: loading after plugins
+1087.309  000.015: inits 3
+1088.257  000.948: reading viminfo
+1089.745  001.488: setup clipboard
+1089.759  000.014: setting raw mode
+1089.761  000.002: start termcap
+1089.779  000.018: clearing screen
+1090.520  000.303  000.303: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/lightline.vim/autoload/lightline.vim
+1090.931  000.033  000.033: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/lightline.vim/autoload/lightline/tab.vim
+1091.323  000.127  000.127: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/lightline.vim/autoload/lightline/colorscheme.vim
+1091.763  000.701  000.574: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/lightline.vim/autoload/lightline/colorscheme/wombat.vim
+1093.680  002.864: opening buffers
+1094.372  000.072  000.072: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-gitgutter/autoload/gitgutter.vim
+1094.425  000.673: BufEnter autocommands
+1094.427  000.002: editing files in windows
+1095.290  000.457  000.457: sourcing /home/jianfenz/.vim_runtime/my_plugins/YouCompleteMe/autoload/youcompleteme.vim
+1150.693  002.575  002.575: sourcing /home/jianfenz/.vim_runtime/sources_non_forked/vim-fugitive/autoload/fugitive.vim
+1151.314  053.855: VimEnter autocommands
+1151.316  000.002: before starting main loop
+1152.528  001.212: first screen update
+1152.529  000.001: --- VIM STARTED ---

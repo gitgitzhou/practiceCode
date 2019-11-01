@@ -20,7 +20,7 @@ double Box::getWidth(void) {
 void Box::setWidth( double wid ) {
    width = wid;
 }
- 
+
 // Main function for the program
 int main() {
    Box box;
