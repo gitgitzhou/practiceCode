@@ -1,0 +1,11 @@
+/home/jianfenz/practiceCode/cs/drawing/obj/Debug/netcoreapp2.2/drawing.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/drawing/obj/Debug/netcoreapp2.2/drawing.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/drawing/obj/Debug/netcoreapp2.2/drawing.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/drawing/obj/Debug/netcoreapp2.2/drawing.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/drawing/bin/Debug/netcoreapp2.2/drawing.deps.json
+/home/jianfenz/practiceCode/cs/drawing/bin/Debug/netcoreapp2.2/drawing.runtimeconfig.json
+/home/jianfenz/practiceCode/cs/drawing/bin/Debug/netcoreapp2.2/drawing.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/cs/drawing/bin/Debug/netcoreapp2.2/drawing.dll
+/home/jianfenz/practiceCode/cs/drawing/bin/Debug/netcoreapp2.2/drawing.pdb
+/home/jianfenz/practiceCode/cs/drawing/obj/Debug/netcoreapp2.2/drawing.dll
+/home/jianfenz/practiceCode/cs/drawing/obj/Debug/netcoreapp2.2/drawing.pdb
