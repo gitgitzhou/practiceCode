@@ -1,0 +1,17 @@
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.deps.json
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.runtimeconfig.json
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.pdb
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypes.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypes.pdb
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.csproj.CopyComplete
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.pdb

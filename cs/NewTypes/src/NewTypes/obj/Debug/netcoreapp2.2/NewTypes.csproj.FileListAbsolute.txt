@@ -1,0 +1,11 @@
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.deps.json
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.runtimeconfig.json
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.pdb
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.dll
+/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jianfenz/practiceCode/cs/drawingTest/drawingTest.csproj",
-      "projectName": "drawingTest",
-      "projectPath": "/home/jianfenz/practiceCode/cs/drawingTest/drawingTest.csproj",
+      "projectUniqueName": "/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/NewTypes.csproj",
+      "projectName": "NewTypes",
+      "projectPath": "/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/NewTypes.csproj",
       "packagesPath": "/home/jianfenz/.nuget/packages/",
-      "outputPath": "/home/jianfenz/practiceCode/cs/drawingTest/obj/",
+      "outputPath": "/home/jianfenz/practiceCode/cs/NewTypes/src/NewTypes/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
