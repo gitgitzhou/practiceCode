@@ -1,0 +1,11 @@
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/bin/Debug/netcoreapp3.0/dotnetCore3
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/bin/Debug/netcoreapp3.0/dotnetCore3.deps.json
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/bin/Debug/netcoreapp3.0/dotnetCore3.runtimeconfig.json
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/bin/Debug/netcoreapp3.0/dotnetCore3.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/bin/Debug/netcoreapp3.0/dotnetCore3.dll
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/bin/Debug/netcoreapp3.0/dotnetCore3.pdb
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/obj/Debug/netcoreapp3.0/dotnetCore3.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/obj/Debug/netcoreapp3.0/dotnetCore3.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/obj/Debug/netcoreapp3.0/dotnetCore3.AssemblyInfo.cs
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/obj/Debug/netcoreapp3.0/dotnetCore3.dll
+/home/jianfenz/practiceCode/dotnetCore3/HelloWorld/obj/Debug/netcoreapp3.0/dotnetCore3.pdb
