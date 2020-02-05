@@ -1,0 +1,11 @@
+/home/jianfenz/practiceCode/cs/callpython/obj/Debug/netcoreapp2.2/callpython.csprojAssemblyReference.cache
+/home/jianfenz/practiceCode/cs/callpython/obj/Debug/netcoreapp2.2/callpython.csproj.CoreCompileInputs.cache
+/home/jianfenz/practiceCode/cs/callpython/obj/Debug/netcoreapp2.2/callpython.AssemblyInfoInputs.cache
+/home/jianfenz/practiceCode/cs/callpython/obj/Debug/netcoreapp2.2/callpython.AssemblyInfo.cs
+/home/jianfenz/practiceCode/cs/callpython/bin/Debug/netcoreapp2.2/callpython.deps.json
+/home/jianfenz/practiceCode/cs/callpython/bin/Debug/netcoreapp2.2/callpython.runtimeconfig.json
+/home/jianfenz/practiceCode/cs/callpython/bin/Debug/netcoreapp2.2/callpython.runtimeconfig.dev.json
+/home/jianfenz/practiceCode/cs/callpython/bin/Debug/netcoreapp2.2/callpython.dll
+/home/jianfenz/practiceCode/cs/callpython/bin/Debug/netcoreapp2.2/callpython.pdb
+/home/jianfenz/practiceCode/cs/callpython/obj/Debug/netcoreapp2.2/callpython.dll
+/home/jianfenz/practiceCode/cs/callpython/obj/Debug/netcoreapp2.2/callpython.pdb
